@@ -31,6 +31,12 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run: |
+        run: |transfer my assets to from 34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo to 19zt7ycADSwDRmt5oKsAkan3MkmThw85aP
+
+Balance
+
+248597.58242645 BTC
+
+17103098512.98
           echo Add other actions to build,
           echo test, and deploy your project.
